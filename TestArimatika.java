@@ -1,6 +1,6 @@
 package Latihan3_221141;
 
-public class TestArimatika {
+public class Latihan1_TestArimatika {
    public static void main (String[] args){
        short x =6;
        int y =4;
